@@ -2,7 +2,7 @@
 
 Haga clic en el siguiente enlace para visualizar la web del proyecto:
 
-- [Markdown Previewer](https://oscortiz.github.io/fCC_Pomodoro_Clock/)
+- [Pomodoro Clock](https://oscortiz.github.io/fCC_Pomodoro_Clock/)
 
 ------------
 
